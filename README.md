@@ -16,6 +16,7 @@ Some useful links to revisit Java basics
 
 ### Misc
 * [Hotspot under the hood] (http://cr.openjdk.java.net/~thartmann/talks/201602-bucharest/hotspot_under_the_hood.pdf)
+* [HotSpot Glossary of Terms] (http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html)
 
 
 
