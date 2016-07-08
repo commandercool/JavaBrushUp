@@ -14,7 +14,7 @@ Some useful links to revisit Java basics
 * [DRY] (https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [SOLID] (https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
-### Misc
+### Hotspot
 * [Hotspot under the hood] (http://cr.openjdk.java.net/~thartmann/talks/201602-bucharest/hotspot_under_the_hood.pdf)
 * [HotSpot Glossary of Terms] (http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html)
 
