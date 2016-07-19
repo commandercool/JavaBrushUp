@@ -5,6 +5,7 @@ Some useful links to revisit Java basics
 ### Collections
 * [Collections Framework full UML diagram] (http://www.codejava.net/java-core/collections/overview-of-java-collections-framework-api-uml-diagram)
 * [Collections Tutorial] (https://docs.oracle.com/javase/tutorial/collections/)
+* [Difference between HashMap, LinkedHashMap and TreeMap] (http://stackoverflow.com/questions/2889777/difference-between-hashmap-linkedhashmap-and-treemap)
 * [Processing Data with Java SE 8 Streams] (http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
 
 ### Java 8
